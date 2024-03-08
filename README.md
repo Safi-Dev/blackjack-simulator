@@ -13,4 +13,8 @@ This Python script simulates a game of blackjack where a player can implement va
 The `basic_strategy` function defines a simple strategy for playing blackjack. Users can modify this function or create new ones to test different strategies.
 
 ## Simulation Results
-After running the script, the simulation results will be displayed, showing the number of wins, losses, ties, and the win/tie rate.
+After running the script, the simulation results will be displayed, showing the number of wins, losses, ties, and the win/tie rate and loss rate.
+
+## To-Do List
+- [ ] Implement card splitting feature
+- [ ] Handle card doubling (work in progress)
