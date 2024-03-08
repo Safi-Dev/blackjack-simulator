@@ -18,3 +18,5 @@ After running the script, the simulation results will be displayed, showing the 
 ## To-Do List
 - [ ] Implement card splitting feature
 - [ ] Handle card doubling (work in progress)
+If you would like me add other features create a request and I'll most likely add it
+If you have any issues please let me know
