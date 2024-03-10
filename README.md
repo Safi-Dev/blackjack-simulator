@@ -20,3 +20,11 @@ After running the script, the simulation results will be displayed, showing the 
 - [ ] Handle card doubling (work in progress)
 If you would like me add other features create a request and I'll most likely add it
 If you have any issues please let me know
+
+## Requirements
+
+- Python 3.x
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
